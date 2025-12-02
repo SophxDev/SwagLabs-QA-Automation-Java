@@ -1,0 +1,7 @@
+[
+  {
+    "alias": "main_catalog",
+    "expectedProductCount": 6,
+    "productNameToCheck": "Sauce Labs Backpack"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "alias": "standard_user",
+    "firstName": "Jaqueline",
+    "lastName": "Espino",
+    "zipCode": "12345"
+  },
+  {
+    "alias": "invalid_zip",
+    "firstName": "Test",
+    "lastName": "User",
+    "zipCode": "000"
+  }
+]

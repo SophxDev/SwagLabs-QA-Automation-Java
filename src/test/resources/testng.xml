@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite de Pruebas" parallel="methods" thread-count="3">
+    <test name="Pruebas de Login">
+        <classes>
+            <class name="com.jaqueline.qa.tests.auth.LoginTest"/>
+        </classes>
+    </test>
+</suite>
